@@ -50,7 +50,7 @@ console.log('loc', location);
             <Grid item xs={12}>
               <Typography color="textSecondary" variant="h5">Technologies: {technologies}</Typography>
               <br/>
-              <Typography color="textSecondary" variant="h5">Number Of Applicants: {applications} </Typography>
+              <Typography color="textSecondary" variant="h5">Number of applicants: {applications} </Typography>
             </Grid>
             <Grid item xs={12}>
                 <Typography variant='h4'>Job Description</Typography>
